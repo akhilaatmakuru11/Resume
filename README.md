@@ -1,4 +1,5 @@
-<h1 align="center">Akhila Atmakuru - Researcher, Data Scientist & Scrum Master</h1>
+<h1 align="center"> Akhila Atmakuru</h1>
+<h2 align="center">Researcher, Data Scientist & Scrum Master</h2>
 <h3 align="center">👩‍🎓 Experienced PhD Graduate in Artificial Intelligence from University of Reading.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilaatmakuru11&label=Profile%20views&color=0e75b6&style=flat" alt="akhilaatmakuru11" /> </p>
