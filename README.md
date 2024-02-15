@@ -4,25 +4,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilaatmakuru11&label=Profile%20views&color=0e75b6&style=flat" alt="akhilaatmakuru11" /> </p>
 
-- 👩‍🔬 My passion lies in **Medical Diagnosis, Behaviour Analysis & Fraud Detection**
+👩‍🔬 My passion lies in **Medical Diagnosis, Behaviour Analysis & Fraud Detection**
 
-- 🤖 Tools **Jupyter Notebook, R, Visual Studio & PowerBI**
+🤖 Tools **Jupyter Notebook, R, Visual Studio & PowerBI**
 
-- 🤓 My subject expertise is in **Articial Intelligence, Machine Learning, Neural Networks, Auto-encoders, Multi Task Learners, Reinforcement Learning & Python**
+🤓 My subject expertise is in **Articial Intelligence, Machine Learning, Neural Networks, Auto-encoders, Multi Task Learners, Reinforcement Learning & Python**
 
-- ⚒️ Libraries **Tensorflow, Keras, Scikit-Learn, Numpy, Pandas, Seaborn & Matplot**
+⚒️ Libraries **Tensorflow, Keras, Scikit-Learn, Numpy, Pandas, Seaborn & Matplot**
 
-- 📫 How to reach me [akhila.atmakuru11@gmail,com](akhila.atmakuru11@gmail,com)
+📚 Publications Topics? **Sensitivity Analysis, Feature Selection & Deep Learning Models**
 
-- All of my projects are available at [https://github.com/akhilaatmakuru11](https://github.com/akhilaatmakuru11)
+👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Collaboration & Experience)**
 
-- 📚 Publications Topics? **Sensitivity Analysis, Feature Selection & Deep Learning Models**
+🗂️ All of my projects are available at [https://github.com/akhilaatmakuru11](https://github.com/akhilaatmakuru11)
 
-- 👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Collaboration & Experience)**
+📄 Know about me from my resume [https://github.com/akhilaatmakuru11/Resume](https://github.com/akhilaatmakuru11/Resume)
 
-- 📄 Know about me from my resume [https://github.com/akhilaatmakuru11/Resume](https://github.com/akhilaatmakuru11/Resume)
+📫 How to reach me [akhila.atmakuru11@gmail,com](akhila.atmakuru11@gmail,com)
 
-- 📅 When will I Join? **Full-Time - September 2024. Part-Time? Anytime! 😄**
+🤙 Mobile Number: +44 (0) 7918358129
+
+📅 When would I be able to join your Team? **Full-Time - September 2024. Part-Time? Anytime! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
