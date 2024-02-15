@@ -16,9 +16,9 @@
 
 👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Collaboration & Experience)**
 
-🗂️ All of my projects are available at [https://github.com/akhilaatmakuru11](https://github.com/akhilaatmakuru11)
+🗂️ All of my projects are available at [Github](https://github.com/akhilaatmakuru11)
 
-📄 Know about me from my resume [https://github.com/akhilaatmakuru11/Resume](https://github.com/akhilaatmakuru11/Resume)
+📄 Know more about me from my [Resume](https://github.com/akhilaatmakuru11/Resume/blob/main/Akhila_Atmakuru_Resume.pdf)
 
 📫 How to reach me [akhila.atmakuru11@gmail,com](akhila.atmakuru11@gmail,com)
 
