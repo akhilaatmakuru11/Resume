@@ -4,17 +4,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akhilaatmakuru11&label=Profile%20views&color=0e75b6&style=flat" alt="akhilaatmakuru11" /> </p>
 
-👩‍🔬 My passion lies in **Medical Diagnosis, Behaviour Analysis & Fraud Detection**
+👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Collaboration & Experience)**
 
-🤖 Tools **Jupyter Notebook, R, Visual Studio & PowerBI**
+👩‍🔬 My passion lies in **Medical Diagnosis, Behaviour Analysis & Fraud Detection**
 
 🤓 My subject expertise is in **Articial Intelligence, Machine Learning, Neural Networks, Auto-encoders, Multi Task Learners, Reinforcement Learning & Python**
 
+🤖 Tools **Jupyter Notebook, R, Visual Studio & PowerBI**
+
 ⚒️ Libraries **Tensorflow, Keras, Scikit-Learn, Numpy, Pandas, Seaborn & Matplot**
 
-📚 Publications Topics? **Sensitivity Analysis, Feature Selection & Deep Learning Models**
-
-👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Collaboration & Experience)**
+📚 Publications Topics? [Sensitivity Analysis](https://doi.org/10.1007/978-3-031-53966-4_33), [Feature Selection Methods](https://doi.org/10.1007/978-3-031-53969-5_28) & [Deep Learning Models](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.673120/full) 
 
 🗂️ All of my projects are available at [Github](https://github.com/akhilaatmakuru11)
 
