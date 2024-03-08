@@ -20,7 +20,7 @@
 
 📄 Know more about me from my [Resume](https://github.com/akhilaatmakuru11/Resume/blob/main/Akhila_Atmakuru_Resume.pdf)
 
-📫 How to reach me [akhila.atmakuru11@gmail,com](akhila.atmakuru11@gmail,com)
+📫 How to reach me [akhila.atmakuru11@gmail,com](akhila.atmakuru11@gmail.com)
 
 🤙 Mobile Number: +44 (0) 7918358129
 
