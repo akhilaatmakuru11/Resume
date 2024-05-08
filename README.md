@@ -8,7 +8,7 @@
 
 👩‍🔬 My passion lies in **Medical Diagnosis, Behaviour Analysis & Fraud Detection**
 
-🤓 My subject expertise is in **Articial Intelligence, Machine Learning, Neural Networks, Auto-encoders, Multi Task Learners, Reinforcement Learning & Python**
+🤓 My subject expertise is in **Articial Intelligence, Machine Learning, Neural Networks, Auto-encoders, Multi Task Learners, Reinforcement Learning & Transfer Learning**
 
 🤖 Tools **Jupyter Notebook, R, Visual Studio & PowerBI**
 
