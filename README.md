@@ -6,7 +6,7 @@
 
 👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Collaboration & Experience)**
 
-👩‍🔬 My passion lies in **Medical Diagnosis, Behaviour Analysis & Fraud Detection**
+👩‍🔬 My passion lies in **Medical diagnosis, analyzing Human behavior, and implementing Risk management strategies within the FinTech industry**
 
 🤓 My subject expertise is in **Articial Intelligence, Machine Learning, Neural Networks, Auto-encoders, Multi Task Learners, Reinforcement Learning & Transfer Learning**
 
