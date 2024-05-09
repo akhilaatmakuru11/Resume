@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akhilaatmakuru11&label=Profile%20views&color=0e75b6&style=flat" alt="akhilaatmakuru11" /> </p>
 
-👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Collaboration & Experience)**
+👩‍💻 Experience Developing, Managing and deploying AI models **6 Years (Includes International Industrial Experience & Collaboration)**
 
 👩‍🔬 My passion lies in **Medical diagnosis, analyzing Human behavior, and implementing Risk management strategies within the FinTech industry**
 
